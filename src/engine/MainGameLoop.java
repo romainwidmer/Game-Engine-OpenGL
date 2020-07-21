@@ -128,4 +128,11 @@ public class MainGameLoop {
 		loader.cleanUp();
 		DisplayManager.closeDisplay();
 	}
+	
+	/**
+	 * Helper to create a textured entity
+	 */
+	private void createEntity() {
+		
+	}
 }
